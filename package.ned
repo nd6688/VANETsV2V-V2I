@@ -1,0 +1,3 @@
+package dsrc;
+
+@license(LGPL);
